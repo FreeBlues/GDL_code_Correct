@@ -2,8 +2,8 @@ import pickle
 import os
 
 from keras.datasets import mnist, cifar100,cifar10
-from tensorflow.keras.utils import load_img, save_img, ImageDataGenerator,  img_to_arra
-#from keras.preprocessing.image import ImageDataGenerator,  img_to_array
+from tensorflow.keras.utils import load_img, save_img,  img_to_arra
+from keras.preprocessing.image import ImageDataGenerator
 
 import pandas as pd
 
